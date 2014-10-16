@@ -62,11 +62,11 @@ a:hover{
 .maintext{
     text-align: center;
     margin: 40px;
+    width:auto;
 }
 
 .text{
     text-align: left;
-    width: 400px;
     display: inline-block;
     margin: 40px;
 }
